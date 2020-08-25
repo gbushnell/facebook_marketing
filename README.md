@@ -6,6 +6,6 @@ Steps:
   2. Clean data
   3. Combine data with Daily Sales Figures
   4. Analyze Effects of Facebook Posts
-    A. Regression
-    B. T-test
+    (A) Regression
+    (B) T-test
   
